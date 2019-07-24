@@ -1,0 +1,62 @@
+{
+  "engineVersion": "5.2.18",
+  "compilerVersion": "5.2.18",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "dragonBones"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "jszip",
+      "path": "../thirdLibs/jszip"
+    },
+    {
+      "name": "crypto-js",
+      "path": "../thirdLibs/crypto-js"
+    },
+    {
+      "name": "jsencrypt",
+      "path": "../thirdLibs/jsencrypt"
+    },
+    {
+      "name": "sproto",
+      "path": "../thirdLibs/sproto"
+    },
+    {
+      "name": "buffer",
+      "path": "../thirdLibs/buffer"
+    },
+    {
+      "name": "greensock",
+      "path": "../thirdLibs/greensock"
+    },
+    {
+      "name": "particle",
+      "path": "../thirdLibs/particle"
+    }
+  ]
+}
